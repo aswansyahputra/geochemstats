@@ -15,7 +15,7 @@ golem::fill_desc(
   author_first_name = "Muhammad Aswan", # Your First Name
   author_last_name = "Syahputra",  # Your Last Name
   author_email = "muhammadaswansyahputra@gmail.com",      # Your Email
-  repo_url = NULL # The (optional) URL of the GitHub Repo
+  repo_url = "https://github.com/aswansyahputra/geochemstats" # The (optional) URL of the GitHub Repo
 )     
 
 ## Use this desc to set {golem} options
